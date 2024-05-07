@@ -1,0 +1,16 @@
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\bin\Debug\net6.0-windows\飞扬的小鸟.exe
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\bin\Debug\net6.0-windows\飞扬的小鸟.deps.json
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\bin\Debug\net6.0-windows\飞扬的小鸟.runtimeconfig.json
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\bin\Debug\net6.0-windows\飞扬的小鸟.dll
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\bin\Debug\net6.0-windows\飞扬的小鸟.pdb
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.Form1.resources
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.vbproj.GenerateResource.cache
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.AssemblyInfoInputs.cache
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.AssemblyInfo.vb
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.vbproj.CoreCompileInputs.cache
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.dll
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\refint\飞扬的小鸟.dll
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.pdb
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\飞扬的小鸟.genruntimeconfig.cache
+D:\Develop\Pratice\飞扬的小鸟\飞扬的小鸟\obj\Debug\net6.0-windows\ref\飞扬的小鸟.dll
